@@ -15,12 +15,11 @@ html {
 	height: 100%;
 	font-size: 14px;
 	color: #fff;
-	text-shadow: 0 1px 2px rgba(0,0,0,.25);
 }
 
 body {
 	background-color: #444;
-	background-image: url(../images/blurred-bg.jpg);
+	background-image: url(../images/reddd.jpg);
 }
 
 ::selection {
@@ -28,8 +27,8 @@ body {
 }
 
 header {
-	background: #333;
-	background-color: rgba(0, 0, 0, .25);
+	background: #fff;
+	background-color: rgba(193, 236, 232, .6);
 	padding: 20px 0;
 }
 
@@ -57,7 +56,7 @@ h1 {
 h2 {
 	font-size: 58px;
 	width: 90%;
-	color: #fff;
+	color: #4b4b4b;
 	text-align: center;
 	margin: 100px auto 20px;
 	font-weight: 100;
@@ -70,7 +69,7 @@ p {
 	line-height: 1.6;
 	font-weight: 200;
 	font-size: 18px;
-	color: rgba(255, 255, 255, .75);
+	color: rgba(75, 75, 75, .75);
 }
 
 ul.countdown {
@@ -84,15 +83,15 @@ ul.countdown li {
 	height: 80px;
 	margin: 0 5px 15px 5px;
 	text-align: center;
-	color: #fff;
-	color: rgba(255, 255, 255, 0.5);
+	color: #4b4b4b;
+	color: rgba(75, 75, 75, 0.5);
 	font-size: 14px;
 	line-height: 1;
 	text-transform: uppercase;
 	-webkit-border-radius: 499px;
 	-moz-border-radius: 499px;
 	border-radius: 499px;
-	border: 1px solid #fff;
+	border: 1px solid #4b4b4b;
 	font-weight: 200;
 	width: 130px;
 	height: 100px; padding-top: 30px;
@@ -100,7 +99,7 @@ ul.countdown li {
 ul.countdown li span {
  	display: block;
  	font-size: 46px;
- 	color: rgba(255, 255, 255, 1);
+ 	color: rgba(75, 75, 75, 1);
  	font-weight: 100;
  }
 
@@ -118,7 +117,7 @@ ul.countdown li span {
 .connect form input[type=text] {
 	width: 338px;
 	height: 46px;
-	border: 1px solid #fff;
+	border: 1px solid #4b4b4b;
 	border-right: none;
 	background: none;
 	-webkit-border-top-left-radius: 99px; -webkit-border-bottom-left-radius-radius: 99px;
@@ -127,7 +126,7 @@ ul.countdown li span {
 	font-size: 14px;
 	font-weight: bold;
 	padding: 0 0 0 20px;
-	color: #fff;
+	color: #4b4b4b;
 	font-weight: 200;
 	float: left;
 	opacity: 0.65;
@@ -150,11 +149,11 @@ ul.countdown li span {
 	-webkit-border-top-right-radius: 99px; -webkit-border-bottom-right-radius-radius: 99px;
 	-moz-border-radius-topright: 99px; -moz-border-radius-bottomright: 99px;
 	border-top-right-radius: 99px; border-bottom-right-radius: 99px;
-	background-color: #fff;
+	background-color: #4b4b4b;
 	margin: 0; padding: 0;
 	font-size: 14px;
 	font-weight: bold;
-	color: #333;
+	color: #fff;
 	float: left;
 	opacity: 0.65;
 }
@@ -184,7 +183,7 @@ ul.countdown li span {
 	-webkit-border-radius: 499px;
 	-moz-border-radius: 499px;
 	border-radius: 499px;
-	border: 1px solid #fff;
+	border: 1px solid #4b4b4b;
 	margin: 0 5px;
 }
 
