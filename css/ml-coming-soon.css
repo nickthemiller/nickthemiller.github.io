@@ -173,7 +173,7 @@ ul.countdown li span {
 }
 
 .connect ul li a {
-	width: 48px;
+	width: 100px;
 	height: 48px;
 	display: block;
 	text-indent: -499px;
@@ -194,7 +194,7 @@ ul.countdown li span {
 	opacity: 0.8;
 }
 
-.connect ul li.facebook a {background: url(../images/connect-facebook.png) no-repeat center;}
+.connect ul li.facebook a {background: #fff;}
 .connect ul li.twitter a {background: url(../images/connect-twitter.png) no-repeat center;}
 .connect ul li.google a {background: url(../images/connect-google.png) no-repeat center;}
 .connect ul li.instagram a {background: url(../images/connect-instagram.png) no-repeat center;}
