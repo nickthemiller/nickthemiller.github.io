@@ -63,6 +63,8 @@ h2 {
 	font-weight: 100;
 }
 
+
+
 p {
 	text-align: center;
 	width: 90%;
@@ -239,6 +241,23 @@ h1, ul.countdown, h2, p, form, .connect {
          -o-animation: fadein 3s; /* Opera */
             animation: fadein 3s;
 }
+
+.button_email {
+  font: bold 15px;
+  text-decoration: none;
+  background-color: #c7c7c7;
+  color: #333333;
+  padding: 15px 40px 15px 40px;
+  border-radius:50px
+
+}
+
+.button_email:hover {
+
+  background-color: #fff;
+	
+}
+
 
 @keyframes fadein {
     from { opacity: 0; }
