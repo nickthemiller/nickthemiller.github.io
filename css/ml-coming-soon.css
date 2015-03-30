@@ -147,9 +147,7 @@ ul.countdown li span {
 	height: 48px;
 	border: none;
 	cursor: pointer;
-	-webkit-border-top-right-radius: 99px; -webkit-border-bottom-right-radius-radius: 99px;
-	-moz-border-radius-topright: 99px; -moz-border-radius-bottomright: 99px;
-	border-top-right-radius: 99px; border-bottom-right-radius: 99px;
+	border-radius; 99px
 	background-color: #fff;
 	margin: 0; padding: 0;
 	font-size: 14px;
